@@ -1,0 +1,15 @@
+{
+  "name": "js-bundler",
+  "version": "1.0.0",
+  "description": "basic JS bundler",
+  "main": "index.js",
+  "author": "Harris B",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "jest-haste-map": "^27.5.1",
+    "jest-resolve": "^29.7.0",
+    "jest-resolve-dependencies": "^29.7.0",
+    "yargs": "^17.7.2"
+  }
+}
